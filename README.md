@@ -6,7 +6,7 @@ Explainability in AI
 
 ## Contributors:
  - <a href="https://github.com/rahulkulhalli">Rahul Kulhalli</a>
- - <a href="https://github.com/savadikarc">Chinmay Savadikar</a>
+ - <a href="https://github.com/savadikarc">Chinmay Savadikar (Self)</a>
  - <a href="https://github.com/PranavArora018">Pranav Arora</a>
  - <a href="https://github.com/kunalkr">Kunal Kumar</a>
  - <a href="https://github.com/gb08">Gayatri Bhoyar</a>
